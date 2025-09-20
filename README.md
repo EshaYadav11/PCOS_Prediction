@@ -45,13 +45,10 @@ pcos_prediction/
 
 ## 📸 Screenshots
 
-### 🏠 Home Page
 ![Home Page](images/home.png)
 
-### 🔍 Prediction Input
 ![Prediction Input](images/predict.png)
 
-### 📊 Prediction Result
 ![Prediction Result](images/predict2.png)
 
 ---
