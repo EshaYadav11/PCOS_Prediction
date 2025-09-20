@@ -5,6 +5,18 @@ It combines **exploratory data analysis (EDA)**, **feature engineering**, and a 
 
 ---
 
+## 🔹 About
+
+This project was created as part of a Data Science Portfolio to demonstrate skills in:
+
+Data Cleaning & EDA
+
+Machine Learning & Model Deployment
+
+Interactive Dashboards with Streamlit
+
+---
+
 ## 📂 Project Structure
 ```
 pcos_prediction/
@@ -75,25 +87,6 @@ Add more features like insulin resistance indicators.
 Expand dataset for better generalization.
 
 Deploy the app on Streamlit Cloud / Hugging Face Spaces for public access.
-
----
-
-## 🔹 About
-
-This project was created as part of a Data Science Portfolio to demonstrate skills in:
-
-Data Cleaning & EDA
-
-Machine Learning & Model Deployment
-
-Interactive Dashboards with Streamlit
-
----
-
-📝 Resume Highlight
-
-Built an end-to-end ML pipeline and deployed a PCOS prediction app using
-Random Forest (ROC-AUC: 0.92), demonstrating skills in data science, ML modeling, and deployment.
 
 ---
 
