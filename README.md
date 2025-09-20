@@ -6,6 +6,7 @@ It combines **exploratory data analysis (EDA)**, **feature engineering**, and a 
 ---
 
 ## 📂 Project Structure
+```
 pcos_prediction/
 ├── app/
 │ ├── streamlit_app.py # Streamlit app for prediction
@@ -22,7 +23,7 @@ pcos_prediction/
 │ └── PCOS_Prediction.ipynb # Jupyter Notebook with full pipeline
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## 🚀 Features
