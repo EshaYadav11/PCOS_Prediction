@@ -11,24 +11,17 @@ pcos_prediction/
 │ ├── streamlit_app.py # Streamlit app for prediction
 │ ├── best_rf_model.pkl # Trained Random Forest model
 │ └── scaler.pkl # Scaler used for preprocessing
-│
 ├── data/
 │ ├── PCOS_infertility.csv
 │ └── PCOS_data_without_infertility.xlsx
-│
 ├── images/ # Screenshots of the app
 │ ├── home.png
 │ ├── predict.png
 │ └── predict2.png
-│
 ├── notebooks/
 │ └── PCOS_Prediction.ipynb # Jupyter Notebook with full pipeline
-│
 ├── requirements.txt
 └── README.md
-
----
-
 
 ---
 
