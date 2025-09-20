@@ -1,4 +1,4 @@
-# 🩺 PCOS Prediction Project
+# 🩺 PCOS Prediction Project: Predicting PCOS Risk Using Machine Learning
 
 This project predicts the likelihood of **Polycystic Ovary Syndrome (PCOS)** based on patient health records using **Machine Learning**.  
 It combines **exploratory data analysis (EDA)**, **feature engineering**, and a **Streamlit web app** for interactive predictions.
