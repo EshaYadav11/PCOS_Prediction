@@ -56,17 +56,17 @@ pcos_prediction/
 ## 🖥️ How to Run the App
 1. Clone this repository:
     ```bash
-        git clone https://github.com/your-username/pcos_prediction.git
-        cd pcos_prediction/app
+    git clone https://github.com/your-username/pcos_prediction.git
+    cd pcos_prediction/app
 
 
 2. Install dependencies:
     ```bash
-        pip install -r requirements.txt
+    pip install -r requirements.txt
 
 3. Run the app:
     ```bash
-        streamlit run streamlit_app.py
+    streamlit run streamlit_app.py
 
 ## ✨ Future Improvements
 
